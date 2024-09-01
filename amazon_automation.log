@@ -1,0 +1,16 @@
+2024-08-31 00:54:59,375 - INFO - Landed on the correct page
+2024-08-31 00:54:59,383 - INFO - Page Title: Online Shopping site in India: Shop Online for Mobiles, Books, Watches, Shoes and More - Amazon.in
+2024-08-31 00:54:59,407 - INFO - Page URL: https://www.amazon.in/
+2024-08-31 00:54:59,619 - INFO - Screenshot saved for step_1_landing_page: screenshots\step_1_landing_page.png
+2024-08-31 00:55:02,663 - INFO - Searched for 'mobile'
+2024-08-31 00:55:02,754 - INFO - Screenshot saved for step_2_search_mobile: screenshots\step_2_search_mobile.png
+2024-08-31 00:55:02,880 - INFO - Selected 4-star customer review filter
+2024-08-31 00:55:02,983 - INFO - Screenshot saved for step_3_select_4_star_filter: screenshots\step_3_select_4_star_filter.png
+2024-08-31 00:55:11,898 - INFO - Set price range between \u20b910,000 - \u20b920,000
+2024-08-31 00:55:11,994 - INFO - Screenshot saved for step_4_set_price_range: screenshots\step_4_set_price_range.png
+2024-08-31 00:55:12,054 - INFO - Opened the first product in a new tab
+2024-08-31 00:55:15,342 - INFO - Screenshot saved for step_5_open_first_product: screenshots\step_5_open_first_product.png
+2024-08-31 00:55:21,481 - INFO - Product added to cart successfully
+2024-08-31 00:55:21,578 - INFO - Screenshot saved for step_6_product_added_to_cart: screenshots\step_6_product_added_to_cart.png
+2024-08-31 00:55:23,887 - INFO - Browser closed
+
